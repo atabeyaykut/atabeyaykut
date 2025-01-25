@@ -7,7 +7,7 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,react,java,nodejs,mysql,python,php,jquery,spring,tailwind&theme=dark&perline=6" />
 
 <h3>Development Tools and Version Control Systems</h3>
-<img src="https://skillicons.dev/icons?i=npm,redux,git,github,figma,postman,vercel,vite,vscode	,cypress,jest,selenium&theme=dark&perline=6" />
+<img src="https://skillicons.dev/icons?i=npm,redux,git,github,figma,postman,vercel,vite,vscode,cypress,jest,selenium&theme=dark&perline=6" />
 
 <div align="left">
   <h2>Let's Connect!</h2>
